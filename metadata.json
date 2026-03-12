@@ -1,0 +1,7 @@
+{
+  "name": "Social Media Content Planner",
+  "description": "Generate weekly social media post ideas, content, and images based on your website and Google Business Profile.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
